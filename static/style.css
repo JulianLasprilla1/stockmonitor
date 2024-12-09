@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #333;
+}
+
+.button {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+#data {
+    margin-top: 20px;
+    font-family: monospace;
+    white-space: pre-wrap;
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+}

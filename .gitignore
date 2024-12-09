@@ -1,0 +1,14 @@
+# Entorno virtual
+env/
+
+# Variables de entorno
+.env
+
+# Archivos generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos específicos de sistemas operativos
+.DS_Store
+Thumbs.db
